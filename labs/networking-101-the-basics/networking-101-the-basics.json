@@ -1,0 +1,72 @@
+{
+  "labId": "networking-101-the-basics",
+  "title": "Networking 101 Basics and Software Defined Networks",
+  "slug": "Learn the basics of networking including the function and use of hubs, switches and routers along with how SDN is changing how they function.",
+  "time": 20,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+	{"title": "5.md"}
+  ],
+  "tags": [
+    {"title": "Networking"},
+    {"title": "REST"},
+    {"title": "SDN"},
+	{"title": "Beginner"}
+  ],
+  "related": [
+    {
+      "labId": "apic-em",
+      "title": "APIC-EM APIs with Python"
+    },
+	{
+      "labId": "coding-101-rest-basics-ga",
+      "title": "Coding 101: REST API Basics"
+    },
+	{
+      "labId": "coding-102-rest-python-ga",
+      "title": "Coding 102: Calling REST APIs from Python"
+    },
+    {
+      "labId": "coding-201-parsing-xml",
+      "title": "Coding 201: Parsing XML with Python"
+    },
+    {
+      "labId": "coding-202-parsing-json",
+      "title": "Coding 202: Parsing JSON with Python"
+    },
+    {
+      "labId": "coding-203-getting-input",
+      "title": "Coding 203: Getting input from a user using Python"
+    },
+    {
+      "labId": "coding-204-reading-a-file",
+      "title": "Coding 204: Reading from a file using Python"
+    },
+    {
+      "labId": "coding-205-writing-file-ga",
+      "title": "Coding 205: Writing data to a file using Python"
+    },
+    {
+      "labId": "coding-206-logging",
+      "title": "Coding 206: How to use the logging module in Python"
+    },
+    {
+      "labId": "coding-207-putting-it-together-ga",
+      "title": "Coding 207:Python - Putting it all together"
+    },
+	{
+	  "labId": "networking-102-the-topologies",
+      "title": "Networking 102 Network Topologies and Models"
+    },
+	{ "labId": "networking-103-IP-addresses",
+	  "title": "Networking 103 IP Addresses and Subnetting"
+	}
+  ],
+  "authors": [
+  	{"name": "", "email": ""}
+  ]
+}

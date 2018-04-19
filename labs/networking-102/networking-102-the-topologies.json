@@ -1,15 +1,14 @@
 {
-  "labId": "networking-103",
-  "title": "Networking 103 IP Addresses and Subnetting",
-  "slug": "Learn about IPv4 addresses, models, subnets and subnetting",
-  "time": 45,  
+  "labId": "networking-102-the-topologies",
+  "title": "Networking 102 Network Topologies and Models",
+  "slug": "Learn about the various network topologies, cabling and communication models.",
+  "time": 15,
   "byod": true,
   "files": [
     {"title": "1.md"},
     {"title": "2.md"},
     {"title": "3.md"},
-	{"title": "4.md"},
-	{"title": "5.md"}
+    {"title": "4.md"}
   ],
   "tags": [
     {"title": "Networking"},    
@@ -36,10 +35,9 @@
       "labId": "networking-101-the-basics",
       "title": "Networking 101 Basics and Software Defined Networks"
     },
-	{
-	  "labId": "networking-102-the-topologies",
-      "title": "Networking 102 Network Topologies and Models"
-    }
+	{ "labId": "networking-103-IP-addresses",
+	  "title": "Networking 103 IP Addresses and Subnetting"
+	}
   ],
   "authors": [
   	{"name": "brtiller", "email": "brtiller@cisco.com"}

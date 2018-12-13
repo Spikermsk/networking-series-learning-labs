@@ -5,11 +5,16 @@
   "time": 20,
   "byod": true,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-	{"title": "5.md"}
+    {"title": "Step 1: What is a network?",
+      "file": "1.md"},
+    {"title": "Step 2: Understand device compatibility with networking",
+      "file": "2.md"},
+    {"title": "Step 3: Understand how devices find each other",
+      "file": "3.md"},
+    {"title": "Step 4: Understand and configure switches, routers, and interfaces",
+      "file": "4.md"},
+    {"title": "Step 5: Understand SDN and REST in the context of networking",
+      "file": "5.md"}
   ],
   "tags": [
     {"title": "Networking"},

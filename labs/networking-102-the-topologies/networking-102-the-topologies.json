@@ -5,13 +5,17 @@
   "time": 15,
   "byod": true,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"}
+    {"title": "Networking 102 Topologies and Models",
+      "file": "1.md"},
+    {"title": "Network wiring and cables",
+      "file": "2.md"},
+    {"title": "Network Communication Model",
+      "file": "3.md"},
+    {"title": "The TCP/IP suite",
+      "file": "4.md"}
   ],
   "tags": [
-    {"title": "Networking"},    
+    {"title": "Networking"},
 	{"title": "Beginner"}
   ],
   "related": [

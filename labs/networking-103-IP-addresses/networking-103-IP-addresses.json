@@ -2,17 +2,22 @@
   "labId": "networking-103-IP-addresses",
   "title": "Networking 103 IP Addresses and Subnetting",
   "slug": "Learn about IPv4 addresses, models, subnets and subnetting",
-  "time": 45,  
+  "time": 45,
   "byod": true,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-	{"title": "4.md"},
-	{"title": "5.md"}
+    {"title": "IPv4 addresses",
+      "file": "1.md"},
+    {"title": "Binary numbers",
+      "file": "2.md"},
+    {"title": "IP classes and private IPs",
+      "file": "3.md"},
+    {"title": "Subnet masks",
+      "file": "4.md"},
+    {"title": "Configuring subnets",
+      "file": "5.md"}
   ],
   "tags": [
-    {"title": "Networking"},    
+    {"title": "Networking"},
 	{"title": "Beginner"}
   ],
   "related": [

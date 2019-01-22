@@ -5,11 +5,13 @@
   "time": 15,
   "byod": true,
   "files": [
-    {"title": "Networking topologies and models",
+    {"title": "Introduction",
+      "file": "0.md"},
+    {"title": "Physical and Logical Topologies",
       "file": "1.md"},
     {"title": "Network wiring and cables",
       "file": "2.md"},
-    {"title": "Network communication model",
+    {"title": "The OSI reference model",
       "file": "3.md"},
     {"title": "The TCP/IP suite",
       "file": "4.md"}
@@ -20,27 +22,31 @@
   ],
   "related": [
     {
-      "labId": "apic-em",
-      "title": "APIC-EM APIs with Python"
-    },
-	{
-      "labId": "coding-101-rest-basics-ga",
-      "title": "Coding 101: REST API Basics"
-    },
-	{
-      "labId": "coding-102-rest-python-ga",
-      "title": "Coding 102: Calling REST APIs from Python"
+      "labId": "intro-coding-and-apis",
+      "title": "Intro to Coding and APIs"
     },
     {
-      "labId": "coding-207-putting-it-together-ga",
-      "title": "Coding 207:Python - Putting it all together"
+      "labId": "git-basic-workflows",
+      "title": "A brief introduction to Git"
     },
-	{
+    {
+      "labId": "intro-python-part1",
+      "title": "Intro to Python - Part 1"
+    },
+    {
+      "labId": "intro-python-part2",
+      "title": "Intro to Python - Part 2"
+    },
+    {
+      "labId": "parsing-json-python",
+      "title": "Parsing JSON with Python"
+    },
+    {
       "labId": "networking-101-the-basics",
-      "title": "Networking 101 Basics and Software Defined Networks"
+      "title": "Networking basics and software-defined networks"
     },
-	{ "labId": "networking-103-IP-addresses",
-	  "title": "Networking 103 IP Addresses and Subnetting"
+    { "labId": "networking-103-IP-addresses",
+      "title": " IPv4 addresses and subnets"
 	}
   ],
   "authors": [

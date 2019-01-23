@@ -6,7 +6,7 @@
   "byod": true,
   "files": [
     {"title:": "Introduction",
-      "file": "0.md"}
+      "file": "0.md"},
     {"title": "Step 1: What is a network?",
       "file": "1.md"},
     {"title": "Step 2: Understand device compatibility with networking",

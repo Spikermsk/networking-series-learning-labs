@@ -50,7 +50,7 @@
     {
       "labId": "networking-102-the-topologies",
       "title": "Networking topologies and models"
-    },
+    }
   ],
   "authors": [
   	{"name": "brtiller", "email": "brtiller@cisco.com"}
